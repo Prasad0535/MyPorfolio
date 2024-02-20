@@ -1,15 +1,15 @@
 import React from "react";
 import Cards from "./Cards";
-import '../achievements/styles.css'
+import '../achievements/achievement.css'
 const Achievements = () => {
   return (
     <>
-    <h2>Certificates</h2>
+    <h2>Achievements</h2>
     
       <div className="certificates">
-         <div className="card_container">
+         <div className="cards">
          <Cards 
-    imgsrc="/images/certificate1.png"
+    imgsrc="images/oasis.png"
     title = "This is attendee Certicate "
     sname="AMAZON"
     link="https://portfolioprasad1.netlify.app/" 
@@ -21,35 +21,70 @@ const Achievements = () => {
     link="https://portfolioprasad1.netlify.app/" 
    />
     <Cards 
-    imgsrc="/images/Tcs.png"
+    imgsrc="/images/leetcode (2).png"
+    title = "Amcat Certified Software Trainee "
+    sname="AMCAT"
+    link="https://portfolioprasad1.netlify.app/" 
+   />
+    
+    <Cards 
+    imgsrc="/images/infosys.png"
     title = " AWS INNOVATIVE  "
     sname="AMAZON"
     link="https://portfolioprasad1.netlify.app/" 
    />
          </div>
    </div>
-   <h2>Projects</h2>
-   <div className="Projects">
+   <h2>Experience</h2>
+   <div className="cards">
    <Cards 
-    imgsrc="/images/Tcs.png"
-    title = " AWS INNOVATIVE  "
-    sname="AMAZON"
+    imgsrc="/images/Sparkofferlater2.png"
+    title = "Web Development Intern"
+    sname="The Spark's Foundation"
     link="https://portfolioprasad1.netlify.app/" 
    />
     <Cards 
-    imgsrc="/images/Tcs.png"
-    title = " AWS INNOVATIVE  "
-    sname="AMAZON"
+    imgsrc="images\oasis.png"
+    title = "Java Developer Intern "
+    sname="Oasis Infobyte"
     link="https://portfolioprasad1.netlify.app/" 
    />
+    <Cards 
+    imgsrc="images\IBMIntern.png"
+    title = "Java Developer Intern "
+    sname="Oasis Infobyte"
+    link="https://portfolioprasad1.netlify.app/" 
+   />
+    
    </div>
-   <h2>Events </h2>
-   <div className="Events">
+   <h2>Certificates</h2>
+   <div className="cards">
+   <Cards 
+    imgsrc="/images/aws1.png"
+    title = "This is the certification from AWS Academy
+    for the Cloud Practitioner Fundamentals.  "
+    sname="AWS"
+    link="https://portfolioprasad1.netlify.app/" 
+   />
+     <Cards 
+    imgsrc="/images/googledataanaly1.png"
+    title = "This certification from Coursera"
+    sname="Google DataAnalytics"
+    link="https://www.coursera.org/account/accomplishments/professional-cert/KRUFN6C8U2J6" 
+   />
    <Cards 
     imgsrc="/images/Tcs.png"
-    title = " AWS INNOVATIVE  "
-    sname="AMAZON"
+    title = "Training of Development of Soft Skills which required by Industry."
+    sname="TCS-Career Young Edge Professional"
     link="https://portfolioprasad1.netlify.app/" 
+   />
+ 
+   
+   <Cards 
+    imgsrc="/images/infosys.png"
+    title = "WebDesign and Development with Infosys Springboard  "
+    sname="Infosys"
+    link="" 
    />
    </div>
       </>

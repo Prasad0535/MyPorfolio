@@ -1,5 +1,5 @@
 import React from "react";
-import './styles.css';
+import '../home/styles.css';
 
 import PageHeader from "../../Components/pageHeaderContainer";
 const Home = () => {
@@ -10,7 +10,7 @@ const Home = () => {
     
              <div>
              <PageHeader/>
-             </div>
+            </div>
             <h3>Welcome to My Portfolio</h3> 
         </div>
         </>

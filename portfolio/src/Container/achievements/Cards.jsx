@@ -4,8 +4,7 @@ const Cards=(props)=>{
         <>
            
        
-         {/* <div className="achievment"> */}
-        <div className="cards">
+        
         <div className="card">
                 <img src={props.imgsrc} alt="img1" className="card_img"/> 
                 <div className="card_info">
@@ -17,12 +16,10 @@ const Cards=(props)=>{
                  </a> 
                 </div>
              </div>
-        </div>
+     
             
           
-         {/* <div className="cards">
-           
-          </div>  */}
+       
 
         
 
