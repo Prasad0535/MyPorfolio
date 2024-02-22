@@ -3,7 +3,7 @@ body{
 }
 .home-container {
     background-color: lightcyan; 
-    /* background: linear-gradient(to top,#FF6347 60%, #6495ED 50%); */
+    
      text-align: center;
     margin: 0;
     height: 100vh; 

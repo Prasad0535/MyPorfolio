@@ -19,18 +19,8 @@ const Projects=()=>{
   sname="SPARKS BANK"
   link="https://github.com/Prasad0535/Sparkianbank.github.io" 
  />
-   <NewCards
-  imgsrc="/images/certificate1.png"
-  title = "This is attendee Certicate "
-  sname="AMAZON"
-  link="https://portfolioprasad1.netlify.app/" 
- />
- <NewCards
-  imgsrc="/images/sparks.png"
-  title = "This is attendee Certicate "
-  sname="AMAZON"
-  link="https://portfolioprasad1.netlify.app/" 
- />
+   
+ 
             </div>
       
      

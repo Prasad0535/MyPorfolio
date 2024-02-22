@@ -4,45 +4,17 @@
   text-align: center;
   font-display: flex;
 }
-/* .column{
-  float : left;
-  width: 25%;
-  padding: 0 10 px; 
-}
-.row {
-  margin: 0 -5px;
-}
-.row:after{
-  content:"";
-  display: table;
-  clear:both;
-}
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  } */
-/* } */
+
 .cards{
   display: flex;
   flex-direction: row;
   gap: 5%;
   
 }
-/* .certificates,
-  .events {
-    display: flex;
-    flex-direction: row; 
-    justify-content: flex-start; 
-    flex-wrap: wrap;
-    /* justify-content: space-between; Optional: Adjust as needed */
-    /* margin-bottom: 20px; Optional: Add some margin between sections */
-  /* } */ 
-  
+ 
 .card {
     width: 15%;
-    /* margin-right: 2.5%;  */
+    
     
     margin-bottom:4%;
     border: 1px solid #ccc;
@@ -59,7 +31,7 @@
     width: 100%;
     height: auto;
     border-radius: 4px;
-    /* margin-bottom: 2px; */
+   
   }
   
 .card_info {
