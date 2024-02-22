@@ -9,15 +9,15 @@ const Projects=()=>{
             <NewCards
   imgsrc="/images/screenshot (289).png"
   title ="Spearheaded design and development of Netflix-Clone Website 
-  which has custom playlist feature that allows user to save their favourite movies.Desgin Login,Signup,Dashboard pages with great UserInterface"  
+  Netflix clone project built with React, HTML, CSS, and JavaScript. Mimics Netflix UI with dynamic components and responsive design"  
   sname="NETFLIX - CLONE"
-  link="https://portfolioprasad1.netlify.app/" 
+  link="https://github.com/Prasad0535/NetFlix-Clone-Prasad1.github.io" 
  />
    <NewCards
   imgsrc="/images/sparks.png"
-  title = "This is attendee Certicate "
-  sname="AMAZON"
-  link="https://portfolioprasad1.netlify.app/" 
+  title = "Developed secure banking website with PHP, HTML, CSS, & JS. PHP for backend logic, HTML/CSS for frontend design, & JS for interactivity. Features include user authentication, transaction processing, and responsive design." 
+  sname="SPARKS BANK"
+  link="https://github.com/Prasad0535/Sparkianbank.github.io" 
  />
    <NewCards
   imgsrc="/images/certificate1.png"

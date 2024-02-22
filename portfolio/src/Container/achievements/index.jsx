@@ -9,29 +9,35 @@ const Achievements = () => {
       <div className="certificates">
          <div className="cards">
          <Cards 
-    imgsrc="images/oasis.png"
-    title = "This is attendee Certicate "
-    sname="AMAZON"
-    link="https://portfolioprasad1.netlify.app/" 
+    imgsrc="images/javastars.png"
+    title = "Java Profeciency"
+    sname="HACKERRANK"
+    link="https://www.hackerrank.com/profile/prasadsonawane12" 
    />
     <Cards 
-    imgsrc="/images/infosys.png"
-    title = " AWS INNOVATIVE  "
-    sname="AMAZON"
-    link="https://portfolioprasad1.netlify.app/" 
+    imgsrc="/images/leet1.png"
+    title = "Leetcode 100 Days and 50 Days Badges "
+    sname="LEETCODE"
+    link="https://leetcode.com/Prasad0535" 
+   />
+         <Cards 
+    imgsrc="images/codechef.png"
+    title = "Badges From Codechef"
+    sname="CODECHEF"
+    link="https://www.codechef.com/users/prasad_101" 
    />
     <Cards 
-    imgsrc="/images/leetcode (2).png"
-    title = "Amcat Certified Software Trainee "
-    sname="AMCAT"
-    link="https://portfolioprasad1.netlify.app/" 
+    imgsrc="/images/DataAnalyticBadge1.png"
+    title = "Google Data Analytics Professional"
+    sname="GOOGLE"
+    link="https://www.credly.com/earner/dashboard" 
    />
     
     <Cards 
-    imgsrc="/images/infosys.png"
-    title = " AWS INNOVATIVE  "
+    imgsrc="/images/CloudBadge1.png"
+    title = "AWS Academy Graduate "
     sname="AMAZON"
-    link="https://portfolioprasad1.netlify.app/" 
+    link="https://www.credly.com/earner/dashboard" 
    />
          </div>
    </div>
@@ -61,10 +67,9 @@ const Achievements = () => {
    <div className="cards">
    <Cards 
     imgsrc="/images/aws1.png"
-    title = "This is the certification from AWS Academy
-    for the Cloud Practitioner Fundamentals.  "
-    sname="AWS"
-    link="https://portfolioprasad1.netlify.app/" 
+    title = "This is the certification from AWS Academy for the Cloud Practitioner Fundamentals."
+    sname="AWS ACADEMY"
+    link="https://drive.google.com/file/d/13yu-5-m1lhIxHkjHHpDToOnz481NCl2z/view?usp=sharing" 
    />
      <Cards 
     imgsrc="/images/googledataanaly1.png"
@@ -76,15 +81,21 @@ const Achievements = () => {
     imgsrc="/images/Tcs.png"
     title = "Training of Development of Soft Skills which required by Industry."
     sname="TCS-Career Young Edge Professional"
-    link="https://portfolioprasad1.netlify.app/" 
+    link="https://drive.google.com/file/d/1vTZjNW_mTY6Rh6X3BuLGki3_bmtUezeI/view?usp=sharing" 
    />
  
-   
+ 
    <Cards 
     imgsrc="/images/infosys.png"
     title = "WebDesign and Development with Infosys Springboard  "
     sname="Infosys"
-    link="" 
+    link="https://drive.google.com/file/d/13gVWyOb-YxQ0pxy7xOtAX1RDLdDcN0J2/view?usp=sharing" 
+   />
+   <Cards 
+    imgsrc="/images/flipkartnew.png"
+    title = "Flipkart Grid Hackathon By Unstopp "
+    sname="FLIPKART"
+    link="https://drive.google.com/file/d/1ZL2BeXb-D7JVTK7w0JQmuFk3o8pyrDXl/view?usp=sharing" 
    />
    </div>
       </>
@@ -96,20 +107,3 @@ const Achievements = () => {
 export default Achievements;
 
 
-{/* <div className="events">
-        <h1>Events</h1>
-        <div className="card-container">
-      <Cards 
-    imgsrc="/images/certificate2.png"
-    title = " AWS INNOVATIVE  "
-    sname="AMAZON"
-    link="https://portfolioprasad1.netlify.app/" 
-      />
-        <Cards
-    imgsrc="/images/certificate2.png"
-    title = " AWS INNOVATIVE  "
-    sname="AMAZON"
-    link="https://portfolioprasad1.netlify.app/" 
-      />
-    </div>
-    {/* </div> */} 

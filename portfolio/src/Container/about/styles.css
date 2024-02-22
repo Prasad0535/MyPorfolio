@@ -113,7 +113,7 @@ h1 span{
 }
 .counter .box{
   width:12rem;
-  background:#222;
+  background:white;
   text-align:center;
   padding:1.5%;
   margin:1.5%; 
@@ -127,13 +127,13 @@ h1 span{
   font-size:4rem;  
   
 }
-.counter .box  span hover{
-  color:red;
+.counter .box  span:hover{
+  color:black;
 }
 .counter .box h3{
  font-size:1.2em;
  font-weight:bold;
- color:palevioletred; 
+ color:mediumvioletred; 
 
 }  
 /*ResumeButton*/
