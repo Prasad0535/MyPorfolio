@@ -47,19 +47,19 @@ const Achievements = () => {
     imgsrc="/images/Sparkofferlater2.png"
     title = "Web Development Intern"
     sname="The Spark's Foundation"
-    link="https://portfolioprasad1.netlify.app/" 
+    link="https://drive.google.com/file/d/1YWTH12WTUWd0B2h3KYMtrr8oRyTTcXHB/view?usp=sharing" 
    />
     <Cards 
     imgsrc="images\oasis.png"
     title = "Java Developer Intern "
     sname="Oasis Infobyte"
-    link="https://portfolioprasad1.netlify.app/" 
+    link="https://drive.google.com/file/d/18UcWUqHu2r9gI4WZzOJYeHrNjWycspBm/view?usp=sharing" 
    />
     <Cards 
     imgsrc="images\IBMIntern.png"
-    title = "Java Developer Intern "
-    sname="Oasis Infobyte"
-    link="https://portfolioprasad1.netlify.app/" 
+    title = "FRONT END DEVELOPER Intern "
+    sname="IBM SKILLBUILD"
+    link="https://drive.google.com/file/d/1XSD-kjk4icXQ-KwMn5gTRdQf-HzdUAj5/view?usp=sharing" 
    />
     
    </div>

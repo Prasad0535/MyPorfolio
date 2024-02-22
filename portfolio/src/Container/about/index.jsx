@@ -17,11 +17,11 @@ const About=()=>{
 
      
       <h3><span>Name :</span>Prasad Subhash Sonawane</h3>
-          <h3><span>Age  :</span>20 Years</h3>
+          <h3><span>Age  :</span>22 Years</h3>
           <h3><span>Qualification :</span>Engineering</h3>
           <h3><span>Branch :</span>Computer Science And Engineering</h3>
           <h3><span>College:</span>Deogiri Institute of Engineering And Mangement Studies</h3>
-          <h3><span>Current Status :</span>Java Developer Intern</h3>
+          <h3><span>Current Status :</span>FRONT END DEVELOPER INTERN</h3>
           </div>
       <div className="para">
         <article>
@@ -34,20 +34,20 @@ const About=()=>{
       </div>
    <div className="counter">
       <div class="box">
-            <span>1 +</span>
+            <span>6 +</span>
             <h3>Month of  Experience </h3>
         </div>
       <div className="box">
-            <span>5 +</span>
+            <span>10+</span>
             <h3>Projects</h3>
           </div>
 <div className="box">
-            <span>10 +</span>
+            <span>50+</span>
             <h3>Contest Experience</h3>
           </div>
 
           <div className="box">
-            <span>3 +</span>
+            <span>15+</span>
             <h3>Technology Learn</h3>
           </div>
 

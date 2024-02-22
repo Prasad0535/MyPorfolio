@@ -4,25 +4,30 @@ import { useState } from "react";
 import { useEffect } from "react";
 
 const PageHeader = ({ title }) => {
-    const [info, setInfo] = useState('Front End Developer');
+    const [info, setInfo] = useState('FRONT END DEVELOPER');
 
     useEffect(() => {
       const timeout1 = setTimeout(() => {
-        setInfo('Designer');
+        setInfo('FULLSTACK DEVELOPER');
       }, 2000);
   
       const timeout2 = setTimeout(() => {
-        setInfo('Freelancer   ');
+        setInfo('SOFTWARE ENGINEER');
       }, 4000);
   
       const timeout3 = setTimeout(() => {
-        setInfo('Programmer');
+        setInfo('SOFTWARE DEVELOPER');
       }, 6000);
+
+      const timeout4= setTimeout(() => {
+        setInfo('CLOUD ENTHUSIAST ENGINEER');
+      }, 8000);
   
       return () => {
         clearTimeout(timeout1);
         clearTimeout(timeout2);
         clearTimeout(timeout3);
+        clearTimeout(timeout4);
       };
     }, []);
     
