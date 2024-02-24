@@ -93,3 +93,18 @@ h1 span{
  color:mediumvioletred; 
 
 }  
+.counter .resume-button {
+    padding: 10px 20px;
+    background-color: #22276b; /* Green background color */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    border-radius: 2.5rem; /* Optional: add a rounded border */
+    cursor: pointer;
+    font-size: 1.5vw; /* Add a pointer on hover */
+    font-size: larger;
+    margin-bottom: 2%;
+  }
+  
+ .counter .resume-button:hover {
+    background-color: #12d3da; /* Darker green on hover */
+  }
