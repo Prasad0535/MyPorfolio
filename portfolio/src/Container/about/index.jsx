@@ -1,5 +1,5 @@
 import React from "react";
-import '../about/about.css'
+import '../about/styles.css'
 const About=()=>{
   const resumeLink='https://drive.google.com/file/d/1NNS9NIKpLjuqHYlAtSiSztkWISSi7fPT/view';
 
