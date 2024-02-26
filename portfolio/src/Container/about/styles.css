@@ -11,6 +11,106 @@ h1 span{
 
 }
 .about .info{
+  float : left;
+  background-color: white;
+  float : right;
+  width: 300px;
+  padding:20px;
+  margin:20px;
+  margin-right:30px;
+  border: 5px solid aquamarine;
+  
+}
+.about .info span{
+  margin-left: 1%;
+  margin-right:0%;
+  color:red;
+  font-size:2vh;
+}
+
+ 
+.about .info h3{
+  align-items: left;
+  padding:  0;
+  font-size:2vh;
+  font-family: 'Franklin Gothic Medium';
+  font-weight:normal;
+  flex-direction:column;
+  margin: 0;
+  padding : 1em 0;
+}
+.about .para {
+  width: 300px;
+  float : right;
+  background-color: white;
+  float : right;
+  border: 5px solid aquamarine;
+  padding:20px;
+  margin:20px;
+  margin-left:200px;
+  
+}
+
+.about .para article {
+  font-size: 2vh;
+  text-align: justify;
+}
+
+.counter{ 
+  width:100%; 
+  background-color: aquamarine;
+  flex : 1 1 28em;
+  display: flex;
+  justify-content :center;
+  flex-wrap :wrap;
+}
+.counter .box{
+  width:12rem;
+  background:white;
+  text-align:center;
+  padding:1.5%;
+  margin:1.5%; 
+  box-sizing: border-box;
+} 
+
+.counter .box span{
+  color:white;
+  font-size:4rem;   
+}
+.counter .box  span:hover{
+  color:black;
+}
+.counter .box h3{
+ font-size:1.2em;
+ font-weight:bold;
+ color:mediumvioletred; 
+}  
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1 span{
+  color:gray;
+  align-items: center;
+}
+
+.about{
+  width:1000px;
+  display:flex;
+  flex-wrap:wrap;
+   
+
+}
+.about .info{
  
   float : left;
   background-color: white;
@@ -107,4 +207,4 @@ h1 span{
   
  .counter .resume-button:hover {
     background-color: #12d3da; /* Darker green on hover */
-  }
+  } */
