@@ -7,7 +7,7 @@ const Projects=()=>{
         <h2>Projects</h2>
             <div className="newcards">
             <NewCards
-  imgsrc="/images/screenshot (289).png"
+  imgsrc="/images/Screenshot (289).png"
   title ="Spearheaded design and development of Netflix-Clone Website 
   Netflix clone project built with React, HTML, CSS, and JavaScript. Mimics Netflix UI with dynamic components and responsive design"  
   sname="NETFLIX - CLONE"
