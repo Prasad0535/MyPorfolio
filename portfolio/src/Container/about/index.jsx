@@ -6,7 +6,7 @@ const About=()=>{
   const handleResumeClick=()=>{
     window.location.href=resumeLink;
   }
-     return(
+   return(
         
 
    <>
@@ -41,19 +41,18 @@ const About=()=>{
             <span>10+</span>
             <h3>Projects</h3>
           </div>
-<div className="box">
+      <div className="box">
             <span>50+</span>
             <h3>Contest Experience</h3>
           </div>
 
-          <div className="box">
+      <div className="box">
             <span>15+</span>
             <h3>Technology Learn</h3>
           </div>
 
           <div> <button onClick={handleResumeClick} className="resume-button">
-           Downlaod Resume
-        </button>
+           Downlaod Resume </button>
    </div>
    </div>  
      
