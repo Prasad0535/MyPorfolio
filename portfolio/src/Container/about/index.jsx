@@ -6,7 +6,7 @@ const About=()=>{
   const handleResumeClick=()=>{
     window.location.href=resumeLink;
   }
-     return(
+   return(
         
 
    <>

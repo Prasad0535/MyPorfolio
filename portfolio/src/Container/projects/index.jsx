@@ -19,9 +19,7 @@ const Projects=()=>{
   sname="SPARKS BANK"
   link="https://github.com/Prasad0535/Sparkianbank.github.io" 
  />
-   
- 
-            </div>
+   </div>
       
      
 

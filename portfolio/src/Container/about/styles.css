@@ -75,8 +75,7 @@ h1 span{
 
 .counter .box span{
   color:white;
-  font-size:4rem;  
-  
+  font-size:4rem;   
 }
 .counter .box  span:hover{
   color:black;
