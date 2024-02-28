@@ -18,7 +18,7 @@ const Skills=()=>{
 
       <div className="skillcard">
         <div className="image-container">
-          <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?w=274&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="CSS" />
+          <img src="https://tse3.mm.bing.net/th?id=OIP.kij1QlZKaZtCPtEbWQpiVAHaCz&pid=Api&P=0&h=180" alt="CSS" />
         </div>
         <div class="skillcard-info">
         <p>"Skilled in crafting visually appealing user interfaces using CSS, with a keen eye for design and layout."</p>
@@ -28,7 +28,7 @@ const Skills=()=>{
 
       <div className="skillcard">
         <div className="image-container">
-          <img src="https://th.bing.com/th/id/OIP.hIAy0-W570XlyNPlrqUPawHaHa?w=154&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Tailwind" />
+          <img src="https://tse1.mm.bing.net/th?id=OIP.AvpmhSP2e8GguzR4CUT5dQHaEy&pid=Api&P=0&h=180" alt="Tailwind" />
         </div>
         <div class="skillcard-info">
        <p>"Proficient in utilizing Tailwind CSS utility-first framework to streamline frontend development and ensure consistent UI design."</p>
@@ -37,7 +37,7 @@ const Skills=()=>{
      
       <div className="skillcard">
         <div className="image-container">
-          <img src="https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?w=181&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="React" />
+          <img src="https://tse3.mm.bing.net/th?id=OIP.rdDJbj2fgaC3NmjAfF_FlwHaHa&pid=Api&P=0&h=180" alt="React" />
         </div>
         <div class="skillcard-info">
         <p>"Experienced in building dynamic web applications with React, leveraging its component-based architecture for efficient development."</p>
@@ -46,7 +46,7 @@ const Skills=()=>{
      
       <div className="skillcard">
         <div className="image-container">
-          <img src="https://th.bing.com/th?id=OIP.Ue2JZ0sSt-1MEZJNdi9IfwHaIi&w=232&h=268&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="MYSQL" />
+          <img src="https://tse3.mm.bing.net/th?id=OIP.FEvZIQaiXEQmH1Hv-36PYQHaEo&pid=Api&P=0&h=180" alt="MYSQL" />
         </div>
         <div class="skillcard-info">
          
@@ -55,7 +55,7 @@ const Skills=()=>{
       </div>
       <div className="skillcard">
         <div className="image-container">
-          <img src="https://th.bing.com/th?id=OIP.PXNp62LLV-aLT2ZUpHupZgHaHw&w=244&h=255&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="Python" />
+          <img src="https://tse4.mm.bing.net/th?id=OIP.nUYOwBlsmc2xTLmGRzBTCQHaHa&pid=Api&P=0&h=180" alt="Python" />
         </div>
         <div class="skillcard-info">
           
@@ -64,7 +64,7 @@ const Skills=()=>{
       </div>
       <div className="skillcard">
         <div className="image-container">
-          <img src="https://th.bing.com/th?id=OIP.cVifR-v6kBYhLzXQhliHJQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="Mongo" />
+          <img src="https://tse3.mm.bing.net/th?id=OIP.CbmE-nmIlkwxdeFSFW0HlwAAAA&pid=Api&P=0&h=180" alt="Mongo" />
         </div>
         <div class="skillcard-info">
           <p>"Experienced in NoSQL database management with MongoDB, enabling flexible and scalable data storage solutions for modern applications."</p>
@@ -72,7 +72,7 @@ const Skills=()=>{
       </div>
       <div className="skillcard">
         <div className="image-container">
-          <img src="https://th.bing.com/th?id=OIP.s5j5kFK-urpNTrVLlv9-ogHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" alt="Node" />
+          <img src="https://tse1.mm.bing.net/th?id=OIP.s5j5kFK-urpNTrVLlv9-ogHaEK&pid=Api&P=0&h=180" alt="Node" />
         </div>
         <div class="skillcard-info">
           
