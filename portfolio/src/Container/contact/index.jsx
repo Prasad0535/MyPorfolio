@@ -46,7 +46,7 @@ const Contact = () => {
         <div className="container">
           <div className="content">
             <div className="image-box">
-              <img draggable="false" src="https://th.bing.com/th/id/OIP.64JVgSNX0KGCS5w8qvkCXwHaEu?pid=ImgDet&w=206&h=131&c=7&dpr=1.3" alt="" />
+              <img draggable="false" src="https://tse2.mm.bing.net/th?id=OIP.vSPgkpRTzExmNtbTAgkgMgHaHa&pid=Api&P=0&h=180" alt="" />
             </div>
             <form ref={form} onSubmit={sendEmail}>
             <div className="contact-form">
