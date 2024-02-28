@@ -7,7 +7,7 @@ const Skills=()=>{
     <div className="skillcards">
     <div className="skillcard">
         <div className="image-container">
-          <img src="https://th.bing.com/th/id/OIP._Lm_T3scKhVEVFC54gcRxwHaE8?w=280&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Java" />
+          <img src="https://wallpapercave.com/wp/wp7250222.jpg" alt="Java" />
         </div>
         <div class="skillcard-info">
           {/* <h3>Java </h3> */}
